@@ -1,0 +1,14 @@
+Este repositorio no contiene ningún archivo ejecutable ni código funcional.
+
+Toda la información proporcionada es de carácter educativo, orientada a la formación en análisis forense y ciberseguridad defensiva.
+
+Está expresamente prohibido:
+- Utilizar el código completo en entornos reales o de producción
+- Ejecutarlo sin supervisión en sistemas personales o de terceros
+- Distribuirlo para fines maliciosos
+
+El autor NO se responsabiliza por el uso indebido del contenido entregado por solicitud.
+
+La entrega del código completo se realiza únicamente bajo solicitud justificada, previa revisión del caso.
+
+Contacto: bytecuenta@gmail.com

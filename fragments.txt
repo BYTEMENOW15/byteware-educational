@@ -1,0 +1,18 @@
+// === Fragmento 1: Extensiones objetivo ===
+private static readonly HashSet<string> targetExtensions = new HashSet<string>
+{
+    ".pdf", ".docx", ".jpg", ".zip", ".mp3"
+};
+
+// === Fragmento 2: Información en consola ===
+Console.Title = "BYTEWARE Encryption Simulation - PID: " + Process.GetCurrentProcess().Id;
+Console.WriteLine("Este programa simula el comportamiento de un ransomware con fines educativos");
+
+// === Fragmento 3: Registro de actividad ===
+LogMessage("[INICIO] Proceso de simulación iniciado en: " + DateTime.Now);
+
+// === Fragmento 4: Ruta de ejemplo para análisis forense ===
+string logFilePath = Path.Combine(Path.GetTempPath(), "BYTEWARE_simulated_log.txt");
+
+// === Fragmento 5: Encabezado de archivo simulado ===
+string header = "[SIMULACION BYTEWARE]\nArchivo: documento.pdf\nEstado: Cifrado simulado\n";
